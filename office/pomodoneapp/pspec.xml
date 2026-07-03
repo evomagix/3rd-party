@@ -11,7 +11,7 @@
         <Summary>Workflow tracker using Pomodoro technique®</Summary>
         <Description>PomoDoneApp is the easiest way to track your workflow using Pomodoro technique®, on top of your current task management service.</Description>
         <License>MIT</License>
-        <Archive sha1sum="b3aee60a402e38b48f95a31515e0b4e1a3e9f2b9" type="binary">https://my.rpie.me/installers/linux/RoundPie-1.5.1636-amd64.deb</Archive>
+        <Archive sha1sum="b1029965879b114e5795ac7fb7d171dc311435bd" type="binary">https://my.rpie.me/installers/linux/RoundPie-1.5.1637-amd64.deb</Archive>
 
         <BuildDependencies>
             <Dependency>binutils</Dependency>
@@ -27,6 +27,14 @@
     </Package>
 
     <History>
+		<Update release="21">
+            <Date>07-03-2026</Date>
+            <Version>1.5.1637</Version>
+            <Comment>Update to 1.5.1637</Comment>
+            <Name>leonevo</Name>
+            <Email>teamevomagix@gmail.com</Email>
+        </Update>
+		
         <Update release="20">
             <Date>03-29-2026</Date>
             <Version>1.5.1636</Version>
